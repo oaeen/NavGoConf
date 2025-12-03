@@ -1,0 +1,145 @@
+{
+  "version": "1.0.0",
+  "config": {
+    "wallpaper": "wallpaper.jpg",
+    "searchEngine": "perplexity",
+    "customSearchEngine": null,
+    "showAddButton": true,
+    "iconSize": 88
+  },
+  "sites": [
+    {
+      "id": "miouiovs1jimfy280f3",
+      "name": "GitHub",
+      "url": "https://github.com",
+      "icon": "icons/miouiovs1jimfy280f3.png",
+      "order": 0
+    },
+    {
+      "id": "mipz2suyp5rbc7drq6a",
+      "name": "AI Studio",
+      "url": "https://aistudio.google.com/prompts/new_chat",
+      "icon": null,
+      "order": 1
+    },
+    {
+      "id": "mipz31xnvmxgsj0l12",
+      "name": "Gemini",
+      "url": "https://gemini.google.com/u/0/app",
+      "icon": null,
+      "order": 2
+    },
+    {
+      "id": "mipz3gyzwdjl8zox84b",
+      "name": "Claude",
+      "url": "https://claude.ai/",
+      "icon": null,
+      "order": 3
+    },
+    {
+      "id": "mipz3yd8onuc484rlvr",
+      "name": "chatgpt",
+      "url": "https://chatgpt.com/",
+      "icon": "icons/mipz3yd8onuc484rlvr.png",
+      "order": 4
+    },
+    {
+      "id": "mipz4hl1in702c17m7m",
+      "name": "Notion",
+      "url": "https://www.notion.so/",
+      "icon": "icons/mipz4hl1in702c17m7m.png",
+      "order": 5
+    },
+    {
+      "id": "mipz4vum9ch7bkwp19o",
+      "name": "Gmail",
+      "url": "https://mail.google.com/mail/u/0/#inbox",
+      "icon": "icons/mipz4vum9ch7bkwp19o.png",
+      "order": 6
+    },
+    {
+      "id": "mipz557z63r507tq8hl",
+      "name": "Google 翻译",
+      "url": "https://translate.google.com/",
+      "icon": null,
+      "order": 7
+    },
+    {
+      "id": "miosy21x6oap3s8oeyw",
+      "name": "知乎",
+      "url": "https://www.zhihu.com/",
+      "icon": "icons/miosy21x6oap3s8oeyw.png",
+      "order": 8
+    },
+    {
+      "id": "miou1f55ndwthhemv3",
+      "name": "LINUX DO",
+      "url": "https://linux.do",
+      "icon": "icons/miou1f55ndwthhemv3.png",
+      "order": 9
+    },
+    {
+      "id": "miova5k92y0xk699kb3",
+      "name": "V2ex",
+      "url": "https://www.v2ex.com/?tab=hot",
+      "icon": null,
+      "order": 10
+    },
+    {
+      "id": "miovdvrbipnf56mw8p",
+      "name": "GitHub",
+      "url": "https://github.com",
+      "icon": "icons/miovdvrbipnf56mw8p.png",
+      "order": 11
+    },
+    {
+      "id": "mipzg5wrqncgwmzde2k",
+      "name": "微信读书",
+      "url": "https://weread.qq.com/",
+      "icon": null,
+      "order": 12
+    },
+    {
+      "id": "mipzgf1glsiue573m4o",
+      "name": "蓝点网",
+      "url": "https://www.landiannews.com/",
+      "icon": "icons/mipzgf1glsiue573m4o.png",
+      "order": 13
+    },
+    {
+      "id": "mipzhh9q8fsk43gx4xi",
+      "name": "金山文档",
+      "url": "https://www.kdocs.cn/",
+      "icon": null,
+      "order": 14
+    },
+    {
+      "id": "mipzi9ep33wn45n8uy3",
+      "name": "YouTube",
+      "url": "https://www.youtube.com/",
+      "icon": "icons/mipzi9ep33wn45n8uy3.png",
+      "order": 15
+    },
+    {
+      "id": "mipzjakiwhtj4b7874",
+      "name": "YT Music",
+      "url": "https://music.youtube.com/",
+      "icon": null,
+      "order": 16
+    },
+    {
+      "id": "miotescj685wgmuhu23",
+      "name": "哔哩哔哩",
+      "url": "https://www.bilibili.com",
+      "icon": "icons/miotescj685wgmuhu23.png",
+      "order": 17
+    },
+    {
+      "id": "mipzk8ecz9sblcy1qnd",
+      "name": "谷歌地球",
+      "url": "https://earth.google.com/web/",
+      "icon": null,
+      "order": 18
+    }
+  ]
+}
