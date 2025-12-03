@@ -4,7 +4,7 @@
     "wallpaper": "wallpaper.jpg",
     "searchEngine": "perplexity",
     "customSearchEngine": null,
-    "showAddButton": true,
+    "showAddButton": false,
     "iconSize": 88
   },
   "sites": [
@@ -33,7 +33,7 @@
       "id": "mipz3gyzwdjl8zox84b",
       "name": "Claude",
       "url": "https://claude.ai/",
-      "icon": null,
+      "icon": "icons/mipz3gyzwdjl8zox84b.png",
       "order": 3
     },
     {
@@ -44,52 +44,52 @@
       "order": 4
     },
     {
+      "id": "miq061jydpttcusibf",
+      "name": "Perplexity",
+      "url": "https://www.perplexity.ai/",
+      "icon": "icons/miq061jydpttcusibf.png",
+      "order": 5
+    },
+    {
       "id": "mipz4hl1in702c17m7m",
       "name": "Notion",
       "url": "https://www.notion.so/",
       "icon": "icons/mipz4hl1in702c17m7m.png",
-      "order": 5
+      "order": 6
     },
     {
       "id": "mipz4vum9ch7bkwp19o",
       "name": "Gmail",
       "url": "https://mail.google.com/mail/u/0/#inbox",
       "icon": "icons/mipz4vum9ch7bkwp19o.png",
-      "order": 6
+      "order": 7
+    },
+    {
+      "id": "miq07e962w9mjeu3jwy",
+      "name": "Cloudflare",
+      "url": "https://www.cloudflare.com/",
+      "icon": "icons/miq07e962w9mjeu3jwy.png",
+      "order": 8
     },
     {
       "id": "mipz557z63r507tq8hl",
       "name": "Google 翻译",
       "url": "https://translate.google.com/",
       "icon": null,
-      "order": 7
+      "order": 9
     },
     {
       "id": "miosy21x6oap3s8oeyw",
       "name": "知乎",
       "url": "https://www.zhihu.com/",
       "icon": "icons/miosy21x6oap3s8oeyw.png",
-      "order": 8
-    },
-    {
-      "id": "miou1f55ndwthhemv3",
-      "name": "LINUX DO",
-      "url": "https://linux.do",
-      "icon": "icons/miou1f55ndwthhemv3.png",
-      "order": 9
+      "order": 10
     },
     {
       "id": "miova5k92y0xk699kb3",
       "name": "V2ex",
       "url": "https://www.v2ex.com/?tab=hot",
       "icon": null,
-      "order": 10
-    },
-    {
-      "id": "miovdvrbipnf56mw8p",
-      "name": "GitHub",
-      "url": "https://github.com",
-      "icon": "icons/miovdvrbipnf56mw8p.png",
       "order": 11
     },
     {
@@ -107,39 +107,53 @@
       "order": 13
     },
     {
+      "id": "miou1f55ndwthhemv3",
+      "name": "LINUX DO",
+      "url": "https://linux.do",
+      "icon": "icons/miou1f55ndwthhemv3.png",
+      "order": 14
+    },
+    {
       "id": "mipzhh9q8fsk43gx4xi",
       "name": "金山文档",
       "url": "https://www.kdocs.cn/",
       "icon": null,
-      "order": 14
+      "order": 15
     },
     {
       "id": "mipzi9ep33wn45n8uy3",
       "name": "YouTube",
       "url": "https://www.youtube.com/",
       "icon": "icons/mipzi9ep33wn45n8uy3.png",
-      "order": 15
+      "order": 16
     },
     {
       "id": "mipzjakiwhtj4b7874",
       "name": "YT Music",
       "url": "https://music.youtube.com/",
       "icon": null,
-      "order": 16
+      "order": 17
     },
     {
       "id": "miotescj685wgmuhu23",
       "name": "哔哩哔哩",
       "url": "https://www.bilibili.com",
       "icon": "icons/miotescj685wgmuhu23.png",
-      "order": 17
+      "order": 18
     },
     {
       "id": "mipzk8ecz9sblcy1qnd",
       "name": "谷歌地球",
       "url": "https://earth.google.com/web/",
       "icon": null,
-      "order": 18
+      "order": 19
+    },
+    {
+      "id": "miq08pdhdsqthls50dw",
+      "name": "HelloGitHub",
+      "url": "https://hellogithub.com/",
+      "icon": "icons/miq08pdhdsqthls50dw.png",
+      "order": 20
     }
   ]
 }
